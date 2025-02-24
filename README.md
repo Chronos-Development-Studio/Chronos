@@ -8,6 +8,8 @@ Chronos Executor is a public Roblox Lua executor designed for secure script inje
 
 ## Features
 - Simple UI for injecting and executing scripts.
+- Key system for paid Chronos.
+- Bootloader to make the first download lighter.
 - Monaco/WebView2-based code editor for a modern scripting experience.
 - Kill Roblox button for emergency process termination.
 - Logs script executions and injection events for debugging.
