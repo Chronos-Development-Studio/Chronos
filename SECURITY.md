@@ -8,7 +8,7 @@ We currently maintain the following versions of Chronos. Only those marked with 
 
 | Version     | Supported          | Notes                                     | Beta              |
 |-------------|--------------------|-------------------------------------------|-------------------|
-| **0.0.2**   | :white_check_mark: | Actively developed and maintained         | :x:               |
+| **0.0.2**   | :white_check_mark: | Actively developed and maintained         | :white_check_mark:               |
 | **0.0.1**   | :x:                | No longer supported                       | :white_check_mark:|
 
 > **Note:** We encourage all users to upgrade to the latest supported version to ensure they receive timely security patches.
