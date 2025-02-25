@@ -38,6 +38,11 @@ We currently maintain the following versions of Chronos. Only those marked with 
 - We will keep you informed of our progress throughout the remediation process.  
 - If you wish to be credited for discovering a vulnerability, we are happy to include your name in release notes or acknowledgments.
 
+## DISCLAMER!
+-Chronos stores you IP and HWID in a **private data base** but we do **NOT** share/sell your data to anyone.                                               
+-We take your security seriously, anyone that bypasses our systems to keep your data safe your HWID and IP is recorded and reported.                    
+-If you do get into the database you are to contact our **[Security team](maolto:chronos.inquirys@gmail.com)** Immediately and **NOT** to disclose the infomation.
+
 ## Thank You
 
 Thank you for helping us keep **Chronos** secure! Your responsible disclosures help protect all users.
